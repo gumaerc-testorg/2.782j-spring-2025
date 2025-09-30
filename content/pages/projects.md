@@ -36,7 +36,7 @@ Following the 12-minute presentation, Professors Spector and Yannas direct quest
 
 ## FDA Report
 
-One report is prepared by each team, dealing with the regulatory issues attendant to the device. The issues related to FDA regulation of medical devices are presented in 2 class lectures. The device design used for the FDA Report is not necessarily the final design. All members of the team receive the same grade. Total length is 8 pages, 1.5 line spacing and Times New Roman 12 or equivalent font; this includes text, all images and references. Here is [an outline for the FDA Report (PDF)](https://www.dropbox.com/scl/fo/mti4225ovm6ttkxs61ig4/AKXS_1s0vqGBvcUvHl8t-X0/Supplementary%20Resources/More%20Resources%20%28to%20be%20updated%20with%20time%29/Additional%20Course%20Materials?dl=0&preview=FDA+Report+Outline.pdf&rlkey=lk9sc8zmko2ozm8m59o8qza0y&subfolder_nav_tracking=1).
+One report is prepared by each team, dealing with the regulatory issues attendant to the device. The issues related to FDA regulation of medical devices are presented in 2 class lectures. The device design used for the FDA Report is not necessarily the final design. All members of the team receive the same grade. Total length is 8 pages, 1.5 line spacing and Times New Roman 12 or equivalent font; this includes text, all images and references. Here is {{% resource_link "7a970ff9-0a81-424f-89ed-50cc0d74b84e" "an outline for the FDA Report (PDF)" %}}.
 
 ## Final Written Report
 
@@ -46,4 +46,4 @@ Literature references are to be provided for the sources of text and images in t
 
 ## Examples of Prior Design Projects
 
-Examples of selected design projects can be found on the {{% resource_link "582c4344-15ed-4fa2-a08e-4c6d66a922ef" "Supplementary Resources" %}} page, under the heading "More Resources (to be updated with time)", [Additional Course Materials](https://www.dropbox.com/scl/fo/mti4225ovm6ttkxs61ig4/AKXS_1s0vqGBvcUvHl8t-X0/Supplementary%20Resources/More%20Resources%20%28to%20be%20updated%20with%20time%29/Additional%20Course%20Materials?dl=0&rlkey=lk9sc8zmko2ozm8m59o8qza0y&subfolder_nav_tracking=1).
+Examples of selected design projects can be found on the {{% resource_link "582c4344-15ed-4fa2-a08e-4c6d66a922ef" "Supplementary Resources" %}} page, under the heading "More Resources (to be updated with time)", {{% resource_link "f20c52a6-c53a-4ca1-9662-9c8d8832f36a" "Additional Course Materials" %}}.
