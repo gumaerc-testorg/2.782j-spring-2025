@@ -9,54 +9,54 @@ uid: b0756dab-5e72-4d4c-9d3a-6504f622cb18
 
 ## Part I: Principles of Implant Design; Targets for Treatment; Bioactive Agents
 
-Lecture 1: [Introduction to Design of Medical Devices by Prof. Spector](https://www.dropbox.com/scl/fo/mti4225ovm6ttkxs61ig4/AACXGYL_Y3ABMoZRV6SNaPE/Lecture%20Recordings?dl=0&preview=25-2-4+2.782%2C+HST.524+Introduction+to+Design+of+Medical+Devices+%28Spector%29+LWC.mp4&rlkey=lk9sc8zmko2ozm8m59o8qza0y&subfolder_nav_tracking=1) (external)
+Lecture 1: {{% resource_link "1b8c052c-ba18-46d1-904c-e68988beecc8" "Introduction to Design of Medical Devices by Prof. Spector" %}} (external)
 
-Lecture 2: [Steps in the Design Process by Prof. Spector](https://www.dropbox.com/scl/fo/mti4225ovm6ttkxs61ig4/AACXGYL_Y3ABMoZRV6SNaPE/Lecture%20Recordings?dl=0&preview=25-2-6+2.782%2C+HST.524+Steps+in+the+Design+Process%3B+Make-up+of+Tissues-Organs+%28Spector%29+LWC.mp4&rlkey=lk9sc8zmko2ozm8m59o8qza0y&subfolder_nav_tracking=1) (external)
+Lecture 2: {{% resource_link "4a4f4710-ded1-4902-bee4-e9c6dec2a7cb" "Steps in the Design Process by Prof. Spector" %}} (external)
 
-Lecture 3: [Steps Continued; Make-Up of Tissues-Organs; UCPs by Prof. Spector](https://www.dropbox.com/scl/fo/mti4225ovm6ttkxs61ig4/AACXGYL_Y3ABMoZRV6SNaPE/Lecture%20Recordings?dl=0&preview=25-2-11+2.782%2C+HST.524+Steps+Continued%3B++Make-up+of+Tissues-Organs%3B+UCPs+%28Spector%29+LWC.mp4&rlkey=lk9sc8zmko2ozm8m59o8qza0y&subfolder_nav_tracking=1) (external)
+Lecture 3: {{% resource_link "5c1462bf-ef71-4e5b-86ac-6e9f4197a6a8" "Steps Continued; Make-Up of Tissues-Organs; UCPs by Prof. Spector" %}} (external)
 
-Lecture 4: [Discussion of Projects; Response to Permanent Implants by Prof. Spector](https://www.dropbox.com/scl/fo/mti4225ovm6ttkxs61ig4/AACXGYL_Y3ABMoZRV6SNaPE/Lecture%20Recordings?dl=0&preview=25-2-13+2.782%2C+HST.524+Discussion+of+Projects%3B+Response+to+Permanent+Implants+%28Spector%29+Zoom.mp4&rlkey=lk9sc8zmko2ozm8m59o8qza0y&subfolder_nav_tracking=1) (external)
+Lecture 4: {{% resource_link "9f9d20e7-b581-4de5-806e-4c6c6c87b549" "Discussion of Projects; Response to Permanent Implants by Prof. Spector" %}} (external)
 
-Lecture 5: [UCPs in Repair and Fibrotic Conditions: Treatment Targets by Prof. Spector](https://www.dropbox.com/scl/fo/mti4225ovm6ttkxs61ig4/AACXGYL_Y3ABMoZRV6SNaPE/Lecture%20Recordings?dl=0&preview=25-2-20+2.782%2C+HST.524+UCPs+in+Repar-Fibrosis+%28Spector%29+Zoom.mp4&rlkey=lk9sc8zmko2ozm8m59o8qza0y&subfolder_nav_tracking=1) (external)
+Lecture 5: {{% resource_link "c6d69e01-8e76-473e-8695-9c462be12876" "UCPs in Repair and Fibrotic Conditions: Treatment Targets by Prof. Spector" %}} (external)
 
-Lecture 6: [Fibrotic Conditions; Tools for TEOR I and II by Prof. Spector](https://www.dropbox.com/scl/fo/mti4225ovm6ttkxs61ig4/AACXGYL_Y3ABMoZRV6SNaPE/Lecture%20Recordings?dl=0&preview=25-2-25_2.782%2C+HST.524+Fibrotic+Conditions%3B+Tools+for+TEOR+I+and+II+%28Spector%29+LWC.mp4&rlkey=lk9sc8zmko2ozm8m59o8qza0y&subfolder_nav_tracking=1) (external)
+Lecture 6: {{% resource_link "8499d68f-b24e-4b2c-ba98-0859ed5ae7d2" "Fibrotic Conditions; Tools for TEOR I and II by Prof. Spector" %}} (external)
 
-Lecture 7: [Highlights of Part I; UCPs; Regenerative Devices II Regulators by Prof. Spector](https://www.dropbox.com/scl/fo/mti4225ovm6ttkxs61ig4/AACXGYL_Y3ABMoZRV6SNaPE/Lecture%20Recordings?dl=0&preview=25-2-27_2.782%2C+HST.524+Highlights+of+Part+I%3B+UCPs%3B+Regen+Dev+II+Regulators+%28Spector%29+LWC.mp4&rlkey=lk9sc8zmko2ozm8m59o8qza0y&subfolder_nav_tracking=1) (external)
+Lecture 7: {{% resource_link "9c3a623c-7a8c-4504-9cc8-833947e42142" "Highlights of Part I; UCPs; Regenerative Devices II Regulators by Prof. Spector" %}} (external)
 
-Lecture 8: [Regenerative Devices II Regulators and III Cells, Exosomes, Mitochondria by Prof. Spector](https://www.dropbox.com/scl/fo/mti4225ovm6ttkxs61ig4/AACXGYL_Y3ABMoZRV6SNaPE/Lecture%20Recordings?dl=0&preview=25-3-4_2.782%2C+HST.524+Regen+Dev+II+Regulators++and+III+Cells%2C+Exosomes%2C+Mitochondria%28Spector%29+LWC.MP4&rlkey=lk9sc8zmko2ozm8m59o8qza0y&subfolder_nav_tracking=1) (external)
+Lecture 8: {{% resource_link "30e4f2ca-1fad-4c02-897b-090731d16d9d" "Regenerative Devices II Regulators and III Cells, Exosomes, Mitochondria by Prof. Spector" %}} (external)
 
 ## Part II: Federal Regulation of Medical Devices
 
-Lecture 9: [Quiz Solutions; FDA I by Prof. Spector](https://www.dropbox.com/scl/fo/mti4225ovm6ttkxs61ig4/AACXGYL_Y3ABMoZRV6SNaPE/Lecture%20Recordings?dl=0&preview=25-3-11_2.782%2C+HST.524+Quiz+Solutions%3B+FDA+I+%28Spector%29+LWC.mp4&rlkey=lk9sc8zmko2ozm8m59o8qza0y&subfolder_nav_tracking=1) (external)
+Lecture 9: {{% resource_link "5229406d-2e4c-498b-b5cb-5b03cac4178a" "Quiz Solutions; FDA I by Prof. Spector" %}} (external)
 
-Lecture 10: [FDA II, III, and IV by Prof. Spector](https://www.dropbox.com/scl/fo/mti4225ovm6ttkxs61ig4/AACXGYL_Y3ABMoZRV6SNaPE/Lecture%20Recordings?dl=0&preview=25-3-13_2.782%2C+HST.524+FDA+II%2C+III%2C+and+IV+%28Spector%29+LWC.mp4&rlkey=lk9sc8zmko2ozm8m59o8qza0y&subfolder_nav_tracking=1) (external)
+Lecture 10: {{% resource_link "6e44b3f1-975c-425a-8d52-66fc5d2b922b" "FDA II, III, and IV by Prof. Spector" %}} (external)
 
 ## Part III: Medical Problems and Their Solutions
 
-Lecture 11: [Musculoskeletal Problems: Ligaments, Tendons, and Cartilages by Prof. Spector](https://www.dropbox.com/scl/fo/mti4225ovm6ttkxs61ig4/AACXGYL_Y3ABMoZRV6SNaPE/Lecture%20Recordings?dl=0&preview=25-3-18_2.782%2C+HST.524+Ligaments%2C+Tendons%2C+Cartilages+%28Spector%29+LWC.mp4&rlkey=lk9sc8zmko2ozm8m59o8qza0y&subfolder_nav_tracking=1) (external)
+Lecture 11: {{% resource_link "ce962201-0bac-4558-8b07-73cfe13f1123" "Musculoskeletal Problems: Ligaments, Tendons, and Cartilages by Prof. Spector" %}} (external)
 
-Lecture 12:  [Dental-Maxillofacial Problems and Treatments by Prof. Spector](https://www.dropbox.com/scl/fo/mti4225ovm6ttkxs61ig4/AACXGYL_Y3ABMoZRV6SNaPE/Lecture%20Recordings?dl=0&preview=25-3-20_2.782%2C+HST.524+Dental-Maxillofacial+Problems+and+Treatments++%28Spector%29+LWC.mp4&rlkey=lk9sc8zmko2ozm8m59o8qza0y&subfolder_nav_tracking=1) (external)
+Lecture 12:  {{% resource_link "88edf7a1-e368-4c90-b024-8f59ddc3f653" "Dental-Maxillofacial Problems and Treatments by Prof. Spector" %}} (external)
 
-Lecture 13: [Device for Skin Regeneration by Prof. Yannas](https://www.dropbox.com/scl/fo/mti4225ovm6ttkxs61ig4/AACXGYL_Y3ABMoZRV6SNaPE/Lecture%20Recordings?dl=0&preview=25-4-8+2.782%2C+HST.524+Device+for+Skin+Regeneration+%28Yannas%29+Zoom.mp4&rlkey=lk9sc8zmko2ozm8m59o8qza0y&subfolder_nav_tracking=1) (external) 
+Lecture 13: {{% resource_link "210d9363-44f8-4523-ac83-78d3119416f0" "Device for Skin Regeneration by Prof. Yannas" %}} (external) 
 
-Lecture 14: [Review of Devices for Skin and Peripheral Nerve by Prof. Spector](https://www.dropbox.com/scl/fo/mti4225ovm6ttkxs61ig4/AACXGYL_Y3ABMoZRV6SNaPE/Lecture%20Recordings?dl=0&preview=25-4-10+2.782%2C+HST.524+Review+of+Devices+for+Skin+and+Peripheral+Nerve+%28Spector%29+LWC.mp4&rlkey=lk9sc8zmko2ozm8m59o8qza0y&subfolder_nav_tracking=1) (external) 
+Lecture 14: {{% resource_link "a7e1afcd-2ad7-412b-89b2-d5dd0489f499" "Review of Devices for Skin and Peripheral Nerve by Prof. Spector" %}} (external) 
 
 ## Part IV: Commercialization of Medical Devices
 
-Lecture 15: [Tissue-Engineered Blood Vessels by Dr. Dahl (Guest Lecturer)](https://www.dropbox.com/scl/fo/mti4225ovm6ttkxs61ig4/AACXGYL_Y3ABMoZRV6SNaPE/Lecture%20Recordings?dl=0&preview=25-4-15+2.782%2C+HST.524+Tissue+Engineered+Blood+Vessels+%28Dahl%29+Zoom.mp4&rlkey=lk9sc8zmko2ozm8m59o8qza0y&subfolder_nav_tracking=1) (external)
+Lecture 15: {{% resource_link "4caf7b88-6f20-45ee-aa23-054f688f1559" "Tissue-Engineered Blood Vessels by Dr. Dahl (Guest Lecturer)" %}} (external)
 
-Lecture 16: [Devices to Treat Cardiac Problems by Dr. Friehs (Guest Lecturer)](https://www.dropbox.com/scl/fo/mti4225ovm6ttkxs61ig4/AACXGYL_Y3ABMoZRV6SNaPE/Lecture%20Recordings?dl=0&preview=25-4-17+2.782%2C+HST.524+Devices+to+Treat+Cardiac+Problems+%28Friehs%29+LWC.mp4&rlkey=lk9sc8zmko2ozm8m59o8qza0y&subfolder_nav_tracking=1) (external)
+Lecture 16: {{% resource_link "3676ed92-d1a2-4751-a639-0ba93cba1443" "Devices to Treat Cardiac Problems by Dr. Friehs (Guest Lecturer)" %}} (external)
 
-Lecture 17: [Mitochondrial Transplantation for Ophthalmic Problems by Dr. Rubio-Majangos (Guest Lecturer)](https://www.dropbox.com/scl/fo/mti4225ovm6ttkxs61ig4/AACXGYL_Y3ABMoZRV6SNaPE/Lecture%20Recordings?dl=0&preview=25-4-22+2.782%2C+HST.524+Mitochondrial+Transplantation+for+Ophthalmic+Problems+%28Rubio-Majangos%29+LWC.MP4&rlkey=lk9sc8zmko2ozm8m59o8qza0y&subfolder_nav_tracking=1) (external)
+Lecture 17: {{% resource_link "59724147-70f7-4b6f-9537-41d336580439" "Mitochondrial Transplantation for Ophthalmic Problems by Dr. Rubio-Majangos (Guest Lecturer)" %}} (external)
 
-Lecture 18: [Statistics; Devices for Retinal Diseases by Prof. Spector](https://www.dropbox.com/scl/fo/mti4225ovm6ttkxs61ig4/AACXGYL_Y3ABMoZRV6SNaPE/Lecture%20Recordings?dl=0&preview=25-4-24+2.782%2C+HST.524+Statistics%3B+Devices+for+Retinal+Diseases+%28Spector%29+LWC.mp4&rlkey=lk9sc8zmko2ozm8m59o8qza0y&subfolder_nav_tracking=1) (external)
+Lecture 18: {{% resource_link "7ce0c334-a2a8-42c9-85cf-784efcc72567" "Statistics; Devices for Retinal Diseases by Prof. Spector" %}} (external)
 
-Lecture 19: [Retinal Disease, Additional Comments; Devices to Treat Spinal Cord Injury by Prof. Spector](https://www.dropbox.com/scl/fo/mti4225ovm6ttkxs61ig4/AACXGYL_Y3ABMoZRV6SNaPE/Lecture%20Recordings?dl=0&preview=25-4-29+2.782%2C+HST.524+Retinal+Disease%2C+Additional+Comments%3B+Devices+to+Treat+SCI+%28Spector%29+LWC.mp4&rlkey=lk9sc8zmko2ozm8m59o8qza0y&subfolder_nav_tracking=1) (external)
+Lecture 19: {{% resource_link "ba9795a3-cf49-40cc-b56c-60c0173901bf" "Retinal Disease, Additional Comments; Devices to Treat Spinal Cord Injury by Prof. Spector" %}} (external)
 
-Lecture 20: [Devices to Treat the Brain-Stroke by Dr. Love (Guest Lecturer)](https://www.dropbox.com/scl/fo/mti4225ovm6ttkxs61ig4/AACXGYL_Y3ABMoZRV6SNaPE/Lecture%20Recordings?dl=0&preview=25-5-1+2.782%2C+HST.524+Devices+to+Treat+the+Brain-Stroke+%28Love%29+Zoom.mp4&rlkey=lk9sc8zmko2ozm8m59o8qza0y&subfolder_nav_tracking=1) (external)
+Lecture 20: {{% resource_link "b46a314e-0f33-4ee8-8170-5a16565c20de" "Devices to Treat the Brain-Stroke by Dr. Love (Guest Lecturer)" %}} (external)
 
-Lecture 21: [Commercialization of Medical devices; Steps to Startup by Prof. Spector](https://www.dropbox.com/scl/fo/mti4225ovm6ttkxs61ig4/AACXGYL_Y3ABMoZRV6SNaPE/Lecture%20Recordings?dl=0&preview=25-5-6+2.782%2C+HST.524+Commercialization+of+Medical+devices%3B+Steps+to+Startup+%28Spector%29+LWC.mp4&rlkey=lk9sc8zmko2ozm8m59o8qza0y&subfolder_nav_tracking=1) (external)
+Lecture 21: {{% resource_link "fdd86efa-cb9e-4a5b-b34d-527bdb2fdb1b" "Commercialization of Medical devices; Steps to Startup by Prof. Spector" %}} (external)
 
-Lecture 22: [Intellectual Property by Dr. Van Eman (Guest Lecturer)](https://www.dropbox.com/scl/fo/mti4225ovm6ttkxs61ig4/AACXGYL_Y3ABMoZRV6SNaPE/Lecture%20Recordings?dl=0&preview=25-5-8+2.782%2C+HST.524+Intellectual+Property+%28Van+Eman%29+LWC.mp4&rlkey=lk9sc8zmko2ozm8m59o8qza0y&subfolder_nav_tracking=1) (external)
+Lecture 22: {{% resource_link "80ae9f92-91d5-400a-8f3f-3b2c60356a6f" "Intellectual Property by Dr. Van Eman (Guest Lecturer)" %}} (external)
 
 ### Note: All of the links on this page lead to an external third-party site and content which has terms and conditions, including license rights, that are excluded from the OCW Creative Commons license (CC BY-NC-SA).
